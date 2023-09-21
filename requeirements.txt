@@ -1,0 +1,11 @@
+colorama
+phonenumbers
+opencage
+prompt_toolkit
+beautifulsoup4
+folium
+Pillow
+piexif
+vininfo
+click
+find_github_email
