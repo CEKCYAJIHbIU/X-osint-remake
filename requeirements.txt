@@ -9,3 +9,4 @@ piexif
 vininfo
 click
 find_github_email
+googlesearch-python
