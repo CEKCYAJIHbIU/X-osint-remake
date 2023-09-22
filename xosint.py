@@ -1,4 +1,4 @@
-from googlesearch import search
+from googlesearch_py import search
 
 from smtplib import SMTP, SMTPRecipientsRefused, SMTPSenderRefused, SMTPResponseException
 from email.mime.multipart import MIMEMultipart
